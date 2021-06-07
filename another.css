@@ -1,0 +1,43 @@
+
+img {display: block;
+	 padding: 15px;
+	 margin: auto;
+	 border-radius: 10%;}
+
+body {background-image: url("https://www.wallpapertip.com/wmimgs/0-4806_desktop-wallpaper.jpg")}
+
+h1 { text-align: center ; 
+	color: white ;
+	width: 100%;
+	line-height: 1.8;
+	padding: 47px 70px;
+	font-size: 65px;}
+
+h2 { text-align: center; 
+	 background-color: #ffcccc ;
+	 font-size: 45px}
+
+h3 {text-align: center}
+
+h5 {font-size: 20px;}
+
+h6 {font-size: 50px}
+
+.judul {color: white;}
+.img {background-color: #f7e6ff ;
+	  text-align: center}
+.fmo {color: #4d004d;}
+.hmu{text-align: left;
+	 font-size: 100%;
+	 line-height: 1.0;}
+.pn {color:  #440066}
+.hobby {text-align: center;}
+.lettering {background-color: }
+.card-text {font-size: 20px}
+.hobby1 {text-align: center;
+		 color: white;}
+.card-header {font-size: 30px;
+			  font-family: "Patua One"}
+
+section {}
+.homepage1 { padding: 47px 70px;}
