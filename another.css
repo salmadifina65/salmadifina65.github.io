@@ -8,6 +8,7 @@ body {background-image: url("https://www.wallpapertip.com/wmimgs/0-4806_desktop-
 
 h1 { text-align: center ; 
 	color: white ;
+	padding: 10px 10px;
 	width: 100%;
 	line-height: 1.5;
 	font-size: 60px;}
