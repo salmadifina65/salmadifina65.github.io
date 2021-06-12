@@ -11,7 +11,8 @@ h1 { text-align: center ;
 	padding: 10px 10px;
 	width: 100%;
 	line-height: 1.5;
-	font-size: 60px;}
+	font-size: 60px;\
+	margin: auto;}
 
 h2 { text-align: center; 
 	 background-color: #ffcccc ;
@@ -40,4 +41,5 @@ h6 {font-size: 50px}
 .card-header {font-size: 30px;
 			  font-family: "Patua One"}
 
-.homepage1 {padding: 75px 50px}
+.homepage1 {padding: 75px 50px;
+	    margin: auto}
